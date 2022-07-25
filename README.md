@@ -4,10 +4,13 @@ The purpose of this analysis was to use our knowledge of machine learning and ne
 ## Results
 ### Data PreProcessing
 - What variable(s) are considered the target(s) for your model?
+
 The 'IS_SUCCESSFUL' column is the target for our model.
 - What variable(s) are considered to be the features for your model?
+
 The remaining dataframe variables are considered to be the features for our model.
 - What variable(s) are neither targets nor features, and should be removed from the input data?
+
 We removed the 'EIN' and 'NAME' columns because they were neither targets nor features. 
 ### Compiling, Training and Evaluating the Model
 - How many neurons, layers and activation functions did you select for your neural network model, and why?
