@@ -16,6 +16,5 @@ We removed the 'EIN' and 'NAME' columns because they were neither targets nor fe
 The target model was 75%, but was only able to achieve 72.3%.
 <img width="659" alt="Screen Shot 2022-07-25 at 12 47 36 PM" src="https://user-images.githubusercontent.com/101950175/180862091-8ed58a9a-2c5e-45ea-88b4-ba9debbed64b.png"> <br>
 - What steps did you take to try and increase model performance? <br>
-Different activations were changed for optimization and the amount of neurons were used. 
-## Summary
+Different activations were changed for optimization and the amount of neurons used were changed. 
 
