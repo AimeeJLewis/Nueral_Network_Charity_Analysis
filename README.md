@@ -1,4 +1,4 @@
-# Nueral_Network_Charity_Analysis
+# Neural_Network_Charity_Analysis
 ## Overview
 The purpose of this analysis was to use our knowledge of machine learning and neural networks to  help create a binary classifier that is capable of predicting whether foundation applicants will be successful if funded by the organization.  
 ## Results
